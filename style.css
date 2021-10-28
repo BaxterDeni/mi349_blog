@@ -27,3 +27,13 @@ p {
 .blog-post {
  border-bottom: 1px dotted #ccc;
 }
+
+.image {
+    border: 1px solid black;
+}
+
+article {
+    border-bottom: 1px solid #000;
+}
+
+
