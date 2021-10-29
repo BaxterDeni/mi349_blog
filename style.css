@@ -1,5 +1,5 @@
 html {
-    background: #e3e3e3;
+    background: lightblue;
 }
 
 body {
@@ -26,11 +26,11 @@ img{
 }
 
 #blog {
- border-top: 1px dotted lightblue;
+ border-top: 1px dotted #ccc;
 }
 
 .blog-post {
- border-bottom: 1px dotted lightblue;
+ border-bottom: 1px dotted #ccc;
 }
 
 .image {
