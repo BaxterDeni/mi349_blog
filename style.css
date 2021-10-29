@@ -22,15 +22,15 @@ p {
 
 img{
     width: 400px;
-    height: 200px;
+    
 }
 
 #blog {
- border-top: 1px dotted #ccc;
+ border-top: 1px dotted lightblue;
 }
 
 .blog-post {
- border-bottom: 1px dotted #ccc;
+ border-bottom: 1px dotted lightblue;
 }
 
 .image {
