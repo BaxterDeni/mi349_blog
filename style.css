@@ -79,4 +79,5 @@ a[href="https://www.linkedin.com/in/baxter-deni-421984161/"] {
 
 .floatImage {
     float: right;
+    margin-left: 10px;
 }
