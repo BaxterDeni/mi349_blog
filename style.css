@@ -34,6 +34,7 @@ img{
 
 #blog {
  border-top: 1px dotted #ccc;
+ display: flex;
 }
 
 .blog-post {
