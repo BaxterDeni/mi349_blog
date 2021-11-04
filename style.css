@@ -76,13 +76,7 @@ a[href="https://www.linkedin.com/in/baxter-deni-421984161/"] {
     border-bottom: 1px solid black;
 }
 
-.sideImage {
-    width: 25px;
-    float: right;
-}
 
-a[src="merunning.jpg"] {
-    height: 50px;
-    width: 25px;
-    
+.floatImage {
+    float: right;
 }
