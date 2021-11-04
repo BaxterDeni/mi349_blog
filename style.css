@@ -46,8 +46,13 @@ img{
     
 }
 
+section {
+    display: flex;
+}
+
 article {
     border-bottom: 1px solid #000;
+    flex: 1000px;
 }
 
 a[href="https://www.linkedin.com/in/baxter-deni-421984161/"] {
