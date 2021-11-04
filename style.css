@@ -50,6 +50,11 @@ form {
     display: flex;
 }
 
+.questions {
+    padding: 20px;
+    margin: 20px;
+}
+
 article {
     border-bottom: 1px solid #000;
    
