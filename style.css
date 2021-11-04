@@ -75,5 +75,7 @@ a[href="https://www.linkedin.com/in/baxter-deni-421984161/"] {
 }
 
 .sideImage {
+    height: 100px;
+    width: 50px;
     float: right;
 }
