@@ -48,9 +48,7 @@ img{
     
 }
 
-form {
-    display: flex;
-}
+
 
 .questions {
     padding: 10px;
@@ -83,7 +81,19 @@ a[href="https://www.linkedin.com/in/baxter-deni-421984161/"] {
 
 @media (min-width: 400px ) {
     .floatImage {
-        float: right;
+    float: right;
     margin-left: 10px;
     }
+
+  
+    form {
+        display: flex;
+    }
+}
+
+@media (max-width: 400px) {
+    .para {
+        text-align: center;
+    }
+
 }
