@@ -108,6 +108,7 @@ a[href="https://www.linkedin.com/in/baxter-deni-421984161/"] {
 
     ul {
         text-align: center;
+        display: inline-block;
     }
 
 }
