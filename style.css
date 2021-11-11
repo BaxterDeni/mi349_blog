@@ -79,11 +79,12 @@ a[href="https://www.linkedin.com/in/baxter-deni-421984161/"] {
     
 }
 
-@media (min-width: 400px ) {
+@media (min-width: 700px ) {
     .floatImage {
     float: right;
     margin-left: 10px;
     }
+    
 
   
     form {
@@ -91,5 +92,10 @@ a[href="https://www.linkedin.com/in/baxter-deni-421984161/"] {
     }
 }
 
+@media (max-width: 700px ) {
+    .para {
+        text-align: center;
+    }
 
+}
 
